@@ -1,12 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
- 
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gparizotto/gparizotto/output/github-contribution-grid-snake.svg" />
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gabriel+Parizotto;I'm+20+years+old;I'm+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -16,7 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparizotto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gparizotto&bg_color=0d1117&color=47009e&line=1500b3&point=6600ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <div align=center>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gparizotto/gparizotto/output/github-contribution-grid-snake-dark.svg" />
+ </div>
+ 
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gparizotto&bg_color=0d1117&color=47009e&line=1500b3&point=6600ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <p align="center">
