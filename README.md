@@ -1,3 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+![snake gif](https://github.com/gparizotto/gparizotto/blob/output/github-contribution-grid-snake.svg)
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gabriel+Parizotto;I'm+20+years+old;I'm+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -67,4 +76,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-![snake gif](https://github.com/gparizotto/gparizotto/blob/output/github-contribution-grid-snake.svg)
+
