@@ -16,6 +16,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gparizotto&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+
 </p>
 
 <div align="center">  
@@ -69,8 +70,12 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gparizotto}/count.svg" /></p> 
 <br></div>
-  
+
+
+<p align="center">
+  <a href="URL_DO_LINK_DA_BADGE">
+    <img src="https://img.shields.io/badge/%E2%80%9CThe%20Best%20Way%20to%20Predict%20the%20Future%20is%20to%20Create%20it.%E2%80%9D%20-%20P.%20Drucker%20%26%20A.%20Lincoln-95a5a6?style=for-the-badge&labelColor=08565a&color=2c3e50" alt="Static Badge">
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
