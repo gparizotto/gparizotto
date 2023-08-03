@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gabriel+Parizotto;I'm+20+years+old;I'm+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gparizotto&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Parizotto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gparizotto&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <img height=200 align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=gparizotto&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height=200 align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gparizotto&layout=compact&langs_count=8&card_width=320&hide=ShaderLab,Makefile,CMake,HLSL&hide_border=true&theme=tokyonight&bg_color=0d1117" />
 </div>
 
  <div align=center>
